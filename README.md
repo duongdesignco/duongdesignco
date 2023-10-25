@@ -1,5 +1,4 @@
-👋 Hi
-
+Hi
 <!---
 Thanks for READINGME.
 --->
